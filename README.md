@@ -31,6 +31,7 @@ Tools that inspect MCP servers for vulnerabilities, misconfigurations, and malic
 - [ModelContextProtocol-Security/mcpserver-audit](https://github.com/ModelContextProtocol-Security/mcpserver-audit) - Audits MCP servers for security problems before use. Part of the Cloud Security Alliance MCP Security initiative.
 - [slowmist/MCP-Security-Checklist](https://github.com/slowmist/MCP-Security-Checklist) - Comprehensive security checklist for MCP-based AI tools. By SlowMist.
 - [MCPGuard](https://usemcpguard.io/) - Security scanner for MCP servers. Commercial with free tier.
+- [JarvisOsorio/mcp-pordego](https://github.com/JarvisOsorio/mcp-pordego) - Local MCP security scanner for Claude Desktop/Code, Cursor, and VS Code configs. Static + live rules (unpinned servers, secrets, injection heuristics, over-broad tools); text/JSON/SARIF. Gateway designed, not shipped. By Jarvis Osorio.
 
 ## Gateways and Proxies
 
